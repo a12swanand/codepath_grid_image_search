@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/misettings"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:icon="@drawable/ic_settings"
+        android:onClick="onsettingsclicked"
+        android:title="@string/action_bar_title"/>
+
+</menu>
